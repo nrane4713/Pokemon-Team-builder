@@ -1,0 +1,200 @@
+[
+  {
+    "key": "red-blue",
+    "displayName": "Red & Blue",
+    "generation": 1,
+    "region": "Kanto",
+    "releaseYear": 1996,
+    "versionGroupSlugs": ["red-blue"],
+    "pokedexSlugs": ["kanto"],
+    "accentColor": "#dc2626",
+    "accentColorSecondary": "#2563eb"
+  },
+  {
+    "key": "yellow",
+    "displayName": "Yellow",
+    "generation": 1,
+    "region": "Kanto",
+    "releaseYear": 1998,
+    "versionGroupSlugs": ["yellow"],
+    "pokedexSlugs": ["kanto"],
+    "accentColor": "#eab308",
+    "accentColorSecondary": "#eab308"
+  },
+  {
+    "key": "gold-silver",
+    "displayName": "Gold & Silver",
+    "generation": 2,
+    "region": "Johto",
+    "releaseYear": 1999,
+    "versionGroupSlugs": ["gold-silver"],
+    "pokedexSlugs": ["original-johto"],
+    "accentColor": "#ca8a04",
+    "accentColorSecondary": "#94a3b8"
+  },
+  {
+    "key": "crystal",
+    "displayName": "Crystal",
+    "generation": 2,
+    "region": "Johto",
+    "releaseYear": 2000,
+    "versionGroupSlugs": ["crystal"],
+    "pokedexSlugs": ["original-johto"],
+    "accentColor": "#0891b2",
+    "accentColorSecondary": "#0891b2"
+  },
+  {
+    "key": "ruby-sapphire",
+    "displayName": "Ruby & Sapphire",
+    "generation": 3,
+    "region": "Hoenn",
+    "releaseYear": 2002,
+    "versionGroupSlugs": ["ruby-sapphire"],
+    "pokedexSlugs": ["hoenn"],
+    "accentColor": "#be123c",
+    "accentColorSecondary": "#0369a1"
+  },
+  {
+    "key": "emerald",
+    "displayName": "Emerald",
+    "generation": 3,
+    "region": "Hoenn",
+    "releaseYear": 2004,
+    "versionGroupSlugs": ["emerald"],
+    "pokedexSlugs": ["hoenn"],
+    "accentColor": "#059669",
+    "accentColorSecondary": "#059669"
+  },
+  {
+    "key": "firered-leafgreen",
+    "displayName": "FireRed & LeafGreen",
+    "generation": 3,
+    "region": "Kanto",
+    "releaseYear": 2004,
+    "versionGroupSlugs": ["firered-leafgreen"],
+    "pokedexSlugs": ["kanto"],
+    "accentColor": "#ea580c",
+    "accentColorSecondary": "#16a34a"
+  },
+  {
+    "key": "diamond-pearl",
+    "displayName": "Diamond & Pearl",
+    "generation": 4,
+    "region": "Sinnoh",
+    "releaseYear": 2006,
+    "versionGroupSlugs": ["diamond-pearl"],
+    "pokedexSlugs": ["original-sinnoh"],
+    "accentColor": "#7dd3fc",
+    "accentColorSecondary": "#f9a8d4"
+  },
+  {
+    "key": "platinum",
+    "displayName": "Platinum",
+    "generation": 4,
+    "region": "Sinnoh",
+    "releaseYear": 2008,
+    "versionGroupSlugs": ["platinum"],
+    "pokedexSlugs": ["extended-sinnoh"],
+    "accentColor": "#94a3b8",
+    "accentColorSecondary": "#94a3b8"
+  },
+  {
+    "key": "heartgold-soulsilver",
+    "displayName": "HeartGold & SoulSilver",
+    "generation": 4,
+    "region": "Johto",
+    "releaseYear": 2009,
+    "versionGroupSlugs": ["heartgold-soulsilver"],
+    "pokedexSlugs": ["updated-johto"],
+    "accentColor": "#f59e0b",
+    "accentColorSecondary": "#cbd5e1"
+  },
+  {
+    "key": "black-white",
+    "displayName": "Black & White",
+    "generation": 5,
+    "region": "Unova",
+    "releaseYear": 2010,
+    "versionGroupSlugs": ["black-white"],
+    "pokedexSlugs": ["original-unova"],
+    "accentColor": "#1f2937",
+    "accentColorSecondary": "#f3f4f6"
+  },
+  {
+    "key": "black-2-white-2",
+    "displayName": "Black 2 & White 2",
+    "generation": 5,
+    "region": "Unova",
+    "releaseYear": 2012,
+    "versionGroupSlugs": ["black-2-white-2"],
+    "pokedexSlugs": ["updated-unova"],
+    "accentColor": "#374151",
+    "accentColorSecondary": "#e5e7eb"
+  },
+  {
+    "key": "x-y",
+    "displayName": "X & Y",
+    "generation": 6,
+    "region": "Kalos",
+    "releaseYear": 2013,
+    "versionGroupSlugs": ["x-y"],
+    "pokedexSlugs": ["kalos-central", "kalos-coastal", "kalos-mountain"],
+    "accentColor": "#3b82f6",
+    "accentColorSecondary": "#ef4444"
+  },
+  {
+    "key": "omega-ruby-alpha-sapphire",
+    "displayName": "Omega Ruby & Alpha Sapphire",
+    "generation": 6,
+    "region": "Hoenn",
+    "releaseYear": 2014,
+    "versionGroupSlugs": ["omega-ruby-alpha-sapphire"],
+    "pokedexSlugs": ["updated-hoenn"],
+    "accentColor": "#f97316",
+    "accentColorSecondary": "#0284c7"
+  },
+  {
+    "key": "sun-moon",
+    "displayName": "Sun & Moon",
+    "generation": 7,
+    "region": "Alola",
+    "releaseYear": 2016,
+    "versionGroupSlugs": ["sun-moon"],
+    "pokedexSlugs": ["original-alola"],
+    "accentColor": "#fb923c",
+    "accentColorSecondary": "#818cf8"
+  },
+  {
+    "key": "ultra-sun-ultra-moon",
+    "displayName": "Ultra Sun & Ultra Moon",
+    "generation": 7,
+    "region": "Alola",
+    "releaseYear": 2017,
+    "versionGroupSlugs": ["ultra-sun-ultra-moon"],
+    "pokedexSlugs": ["updated-alola"],
+    "accentColor": "#f97316",
+    "accentColorSecondary": "#4f46e5"
+  },
+  {
+    "key": "lets-go-pikachu-eevee",
+    "displayName": "Let's Go, Pikachu! & Let's Go, Eevee!",
+    "generation": 7,
+    "region": "Kanto",
+    "releaseYear": 2018,
+    "versionGroupSlugs": ["lets-go-pikachu-lets-go-eevee"],
+    "pokedexSlugs": ["letsgo-kanto"],
+    "accentColor": "#facc15",
+    "accentColorSecondary": "#b45309"
+  },
+  {
+    "key": "sword-shield",
+    "displayName": "Sword & Shield",
+    "generation": 8,
+    "region": "Galar",
+    "releaseYear": 2019,
+    "versionGroupSlugs": ["sword-shield", "the-isle-of-armor", "the-crown-tundra"],
+    "pokedexSlugs": ["galar", "isle-of-armor", "crown-tundra"],
+    "accentColor": "#4338ca",
+    "accentColorSecondary": "#dc2626"
+  }
+]

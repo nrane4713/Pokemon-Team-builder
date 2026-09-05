@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pokémon Team Builder
 
-## Getting Started
+Build type-balanced Pokémon teams for any mainline game from Red & Blue through Sword & Shield — each
+game only shows Pokémon actually obtainable in it. Includes a National Dex reference, live type
+weakness/resistance/coverage analysis, and named presets that can bundle teams across multiple games.
 
-First, run the development server:
+## Setup
 
 ```bash
+npm install
+npm run build:data      # fetches + generates data/generated/*.json from PokeAPI (cached, resumable)
+npx prisma migrate dev  # creates the local SQLite db (skip if dev.db already exists)
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+`data/generated/*.json` is committed to the repo, so `npm run build:data` only needs to be re-run if you
+want to refresh from PokeAPI or edit the hand-curated files in `data/manual/`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Project structure
 
-## Learn More
+- `scripts/build-data/` — one-time pipeline that fetches PokeAPI data (types, species, regional
+  Pokédexes) and writes the static `data/generated/*.json` the app reads at runtime. Raw responses are
+  cached in `data/cache/` (gitignored) so reruns are fast.
+- `data/manual/games.json` — the 18 supported game tiles (one per version-group pairing) and their
+  display metadata.
+- `data/manual/regional-form-overrides.json` — hand-curated mapping of which regional form (Alolan,
+  Galarian) a species takes in a given game, since PokeAPI's regional Pokédex data doesn't expose this
+  directly.
+- `src/lib/type-chart.ts` — pure type-effectiveness engine (defensive coverage + STAB-only offensive
+  coverage), unit-tested in `src/lib/type-chart.test.ts`.
+- `src/app/games/[gameKey]` — the team builder: Pokédex grid + 6-slot team + live type analysis.
+- `src/app/national` — browsable reference of every supported Pokémon.
+- `src/app/presets` — saved team bundles (Prisma/SQLite-backed via `/api/presets`), tracked per-browser
+  via a `localStorage` id index (no accounts).
 
-To learn more about Next.js, take a look at the following resources:
+## Scripts
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Command | What it does |
+|---|---|
+| `npm run dev` | Start the dev server |
+| `npm run build` | Production build (type-checks too) |
+| `npm test` | Run the Vitest suite |
+| `npm run build:data` | Re-run the PokeAPI data pipeline |
+| `npm run prisma:migrate` | Create/apply a Prisma migration |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Notes & known simplifications
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Sword & Shield** bundles the base Galar dex with the Isle of Armor and Crown Tundra DLC into one
+  "complete game" tile.
+- **Version-exclusive Pokémon** within a paired game (e.g. a Gold-only vs. Silver-only encounter) aren't
+  distinguished — both versions' obtainable Pokémon are merged into one tile.
+- **Offensive type coverage** is a same-type-move (STAB) approximation; it doesn't know individual
+  movesets.

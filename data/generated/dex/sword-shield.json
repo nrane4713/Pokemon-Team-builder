@@ -1,0 +1,2922 @@
+[
+  {
+    "regionalDexNumber": 1,
+    "formId": "grookey",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 2,
+    "formId": "thwackey",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 3,
+    "formId": "rillaboom",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 4,
+    "formId": "scorbunny",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 5,
+    "formId": "raboot",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 6,
+    "formId": "cinderace",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 7,
+    "formId": "sobble",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 8,
+    "formId": "drizzile",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 9,
+    "formId": "inteleon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 10,
+    "formId": "blipbug",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 11,
+    "formId": "dottler",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 12,
+    "formId": "orbeetle",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 13,
+    "formId": "caterpie",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 14,
+    "formId": "metapod",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 15,
+    "formId": "butterfree",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 16,
+    "formId": "grubbin",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 17,
+    "formId": "charjabug",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 18,
+    "formId": "vikavolt",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 19,
+    "formId": "hoothoot",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 20,
+    "formId": "noctowl",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 21,
+    "formId": "rookidee",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 22,
+    "formId": "corvisquire",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 23,
+    "formId": "corviknight",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 24,
+    "formId": "skwovet",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 25,
+    "formId": "greedent",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 26,
+    "formId": "pidove",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 27,
+    "formId": "tranquill",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 28,
+    "formId": "unfezant",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 29,
+    "formId": "nickit",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 30,
+    "formId": "thievul",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 31,
+    "formId": "zigzagoon-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 32,
+    "formId": "linoone-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 33,
+    "formId": "obstagoon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 34,
+    "formId": "wooloo",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 35,
+    "formId": "dubwool",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 36,
+    "formId": "lotad",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 37,
+    "formId": "lombre",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 38,
+    "formId": "ludicolo",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 39,
+    "formId": "seedot",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 40,
+    "formId": "nuzleaf",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 41,
+    "formId": "shiftry",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 42,
+    "formId": "chewtle",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 43,
+    "formId": "drednaw",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 44,
+    "formId": "purrloin",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 45,
+    "formId": "liepard",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 46,
+    "formId": "yamper",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 47,
+    "formId": "boltund",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 48,
+    "formId": "bunnelby",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 49,
+    "formId": "diggersby",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 50,
+    "formId": "minccino",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 51,
+    "formId": "cinccino",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 52,
+    "formId": "bounsweet",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 53,
+    "formId": "steenee",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 54,
+    "formId": "tsareena",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 55,
+    "formId": "oddish",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 56,
+    "formId": "gloom",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 57,
+    "formId": "vileplume",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 58,
+    "formId": "bellossom",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 59,
+    "formId": "budew",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 60,
+    "formId": "roselia",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 61,
+    "formId": "roserade",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 62,
+    "formId": "wingull",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 63,
+    "formId": "pelipper",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 64,
+    "formId": "joltik",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 65,
+    "formId": "galvantula",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 66,
+    "formId": "electrike",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 67,
+    "formId": "manectric",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 68,
+    "formId": "vulpix",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 69,
+    "formId": "ninetales",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 70,
+    "formId": "growlithe",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 71,
+    "formId": "arcanine",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 72,
+    "formId": "vanillite",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 73,
+    "formId": "vanillish",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 74,
+    "formId": "vanilluxe",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 75,
+    "formId": "swinub",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 76,
+    "formId": "piloswine",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 77,
+    "formId": "mamoswine",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 78,
+    "formId": "delibird",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 79,
+    "formId": "snorunt",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 80,
+    "formId": "glalie",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 81,
+    "formId": "froslass",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 82,
+    "formId": "baltoy",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 83,
+    "formId": "claydol",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 84,
+    "formId": "mudbray",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 85,
+    "formId": "mudsdale",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 86,
+    "formId": "dwebble",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 87,
+    "formId": "crustle",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 88,
+    "formId": "golett",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 89,
+    "formId": "golurk",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 90,
+    "formId": "munna",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 91,
+    "formId": "musharna",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 92,
+    "formId": "natu",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 93,
+    "formId": "xatu",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 94,
+    "formId": "stufful",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 95,
+    "formId": "bewear",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 96,
+    "formId": "snover",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 97,
+    "formId": "abomasnow",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 98,
+    "formId": "krabby",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 99,
+    "formId": "kingler",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 100,
+    "formId": "wooper",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 101,
+    "formId": "quagsire",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 102,
+    "formId": "corphish",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 103,
+    "formId": "crawdaunt",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 104,
+    "formId": "nincada",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 105,
+    "formId": "ninjask",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 106,
+    "formId": "shedinja",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 107,
+    "formId": "tyrogue",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 108,
+    "formId": "hitmonlee",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 109,
+    "formId": "hitmonchan",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 110,
+    "formId": "hitmontop",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 111,
+    "formId": "pancham",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 112,
+    "formId": "pangoro",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 113,
+    "formId": "klink",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 114,
+    "formId": "klang",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 115,
+    "formId": "klinklang",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 116,
+    "formId": "combee",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 117,
+    "formId": "vespiquen",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 118,
+    "formId": "bronzor",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 119,
+    "formId": "bronzong",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 120,
+    "formId": "ralts",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 121,
+    "formId": "kirlia",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 122,
+    "formId": "gardevoir",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 123,
+    "formId": "gallade",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 124,
+    "formId": "drifloon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 125,
+    "formId": "drifblim",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 126,
+    "formId": "gossifleur",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 127,
+    "formId": "eldegoss",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 128,
+    "formId": "cherubi",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 129,
+    "formId": "cherrim",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 130,
+    "formId": "stunky",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 131,
+    "formId": "skuntank",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 132,
+    "formId": "tympole",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 133,
+    "formId": "palpitoad",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 134,
+    "formId": "seismitoad",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 135,
+    "formId": "duskull",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 136,
+    "formId": "dusclops",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 137,
+    "formId": "dusknoir",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 138,
+    "formId": "machop",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 139,
+    "formId": "machoke",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 140,
+    "formId": "machamp",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 141,
+    "formId": "gastly",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 142,
+    "formId": "haunter",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 143,
+    "formId": "gengar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 144,
+    "formId": "magikarp",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 145,
+    "formId": "gyarados",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 146,
+    "formId": "goldeen",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 147,
+    "formId": "seaking",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 148,
+    "formId": "remoraid",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 149,
+    "formId": "octillery",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 150,
+    "formId": "shellder",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 151,
+    "formId": "cloyster",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 152,
+    "formId": "feebas",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 153,
+    "formId": "milotic",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 154,
+    "formId": "basculin-red-striped",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 155,
+    "formId": "wishiwashi-solo",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 156,
+    "formId": "pyukumuku",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 157,
+    "formId": "trubbish",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 158,
+    "formId": "garbodor",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 159,
+    "formId": "sizzlipede",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 160,
+    "formId": "centiskorch",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 161,
+    "formId": "rolycoly",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 162,
+    "formId": "carkol",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 163,
+    "formId": "coalossal",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 164,
+    "formId": "diglett",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 165,
+    "formId": "dugtrio",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 166,
+    "formId": "drilbur",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 167,
+    "formId": "excadrill",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 168,
+    "formId": "roggenrola",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 169,
+    "formId": "boldore",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 170,
+    "formId": "gigalith",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 171,
+    "formId": "timburr",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 172,
+    "formId": "gurdurr",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 173,
+    "formId": "conkeldurr",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 174,
+    "formId": "woobat",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 175,
+    "formId": "swoobat",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 176,
+    "formId": "noibat",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 177,
+    "formId": "noivern",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 178,
+    "formId": "onix",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 179,
+    "formId": "steelix",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 180,
+    "formId": "arrokuda",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 181,
+    "formId": "barraskewda",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 182,
+    "formId": "meowth-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 183,
+    "formId": "perrserker",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 184,
+    "formId": "persian",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 185,
+    "formId": "milcery",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 186,
+    "formId": "alcremie",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 187,
+    "formId": "cutiefly",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 188,
+    "formId": "ribombee",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 189,
+    "formId": "ferroseed",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 190,
+    "formId": "ferrothorn",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 191,
+    "formId": "pumpkaboo-average",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 192,
+    "formId": "gourgeist-average",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 193,
+    "formId": "pichu",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 194,
+    "formId": "pikachu",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 195,
+    "formId": "raichu",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 196,
+    "formId": "eevee",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 197,
+    "formId": "vaporeon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 198,
+    "formId": "jolteon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 199,
+    "formId": "flareon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 200,
+    "formId": "espeon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 201,
+    "formId": "umbreon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 202,
+    "formId": "leafeon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 203,
+    "formId": "glaceon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 204,
+    "formId": "sylveon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 205,
+    "formId": "applin",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 206,
+    "formId": "flapple",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 207,
+    "formId": "appletun",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 208,
+    "formId": "espurr",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 209,
+    "formId": "meowstic-male",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 210,
+    "formId": "swirlix",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 211,
+    "formId": "slurpuff",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 212,
+    "formId": "spritzee",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 213,
+    "formId": "aromatisse",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 214,
+    "formId": "dewpider",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 215,
+    "formId": "araquanid",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 216,
+    "formId": "wynaut",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 217,
+    "formId": "wobbuffet",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 218,
+    "formId": "farfetchd-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 219,
+    "formId": "sirfetchd",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 220,
+    "formId": "chinchou",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 221,
+    "formId": "lanturn",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 222,
+    "formId": "croagunk",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 223,
+    "formId": "toxicroak",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 224,
+    "formId": "scraggy",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 225,
+    "formId": "scrafty",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 226,
+    "formId": "stunfisk-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 227,
+    "formId": "shuckle",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 228,
+    "formId": "barboach",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 229,
+    "formId": "whiscash",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 230,
+    "formId": "shellos",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 231,
+    "formId": "gastrodon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 232,
+    "formId": "wimpod",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 233,
+    "formId": "golisopod",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 234,
+    "formId": "binacle",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 235,
+    "formId": "barbaracle",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 236,
+    "formId": "corsola-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 237,
+    "formId": "cursola",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 238,
+    "formId": "impidimp",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 239,
+    "formId": "morgrem",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 240,
+    "formId": "grimmsnarl",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 241,
+    "formId": "hatenna",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 242,
+    "formId": "hattrem",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 243,
+    "formId": "hatterene",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 244,
+    "formId": "salandit",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 245,
+    "formId": "salazzle",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 246,
+    "formId": "pawniard",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 247,
+    "formId": "bisharp",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 248,
+    "formId": "throh",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 249,
+    "formId": "sawk",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 250,
+    "formId": "koffing",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 251,
+    "formId": "weezing-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 252,
+    "formId": "bonsly",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 253,
+    "formId": "sudowoodo",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 254,
+    "formId": "cleffa",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 255,
+    "formId": "clefairy",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 256,
+    "formId": "clefable",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 257,
+    "formId": "togepi",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 258,
+    "formId": "togetic",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 259,
+    "formId": "togekiss",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 260,
+    "formId": "munchlax",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 261,
+    "formId": "snorlax",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 262,
+    "formId": "cottonee",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 263,
+    "formId": "whimsicott",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 264,
+    "formId": "rhyhorn",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 265,
+    "formId": "rhydon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 266,
+    "formId": "rhyperior",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 267,
+    "formId": "gothita",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 268,
+    "formId": "gothorita",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 269,
+    "formId": "gothitelle",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 270,
+    "formId": "solosis",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 271,
+    "formId": "duosion",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 272,
+    "formId": "reuniclus",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 273,
+    "formId": "karrablast",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 274,
+    "formId": "escavalier",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 275,
+    "formId": "shelmet",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 276,
+    "formId": "accelgor",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 277,
+    "formId": "elgyem",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 278,
+    "formId": "beheeyem",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 279,
+    "formId": "cubchoo",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 280,
+    "formId": "beartic",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 281,
+    "formId": "rufflet",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 282,
+    "formId": "braviary",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 283,
+    "formId": "vullaby",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 284,
+    "formId": "mandibuzz",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 285,
+    "formId": "skorupi",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 286,
+    "formId": "drapion",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 287,
+    "formId": "litwick",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 288,
+    "formId": "lampent",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 289,
+    "formId": "chandelure",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 290,
+    "formId": "inkay",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 291,
+    "formId": "malamar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 292,
+    "formId": "sneasel",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 293,
+    "formId": "weavile",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 294,
+    "formId": "sableye",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 295,
+    "formId": "mawile",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 296,
+    "formId": "maractus",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 297,
+    "formId": "sigilyph",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 298,
+    "formId": "riolu",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 299,
+    "formId": "lucario",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 300,
+    "formId": "torkoal",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 301,
+    "formId": "mimikyu-disguised",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 302,
+    "formId": "cufant",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 303,
+    "formId": "copperajah",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 304,
+    "formId": "qwilfish",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 305,
+    "formId": "frillish-male",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 306,
+    "formId": "jellicent-male",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 307,
+    "formId": "mareanie",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 308,
+    "formId": "toxapex",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 309,
+    "formId": "cramorant",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 310,
+    "formId": "toxel",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 311,
+    "formId": "toxtricity-amped",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 312,
+    "formId": "silicobra",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 313,
+    "formId": "sandaconda",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 314,
+    "formId": "hippopotas",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 315,
+    "formId": "hippowdon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 316,
+    "formId": "durant",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 317,
+    "formId": "heatmor",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 318,
+    "formId": "helioptile",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 319,
+    "formId": "heliolisk",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 320,
+    "formId": "hawlucha",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 321,
+    "formId": "trapinch",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 322,
+    "formId": "vibrava",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 323,
+    "formId": "flygon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 324,
+    "formId": "axew",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 325,
+    "formId": "fraxure",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 326,
+    "formId": "haxorus",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 327,
+    "formId": "yamask-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 328,
+    "formId": "runerigus",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 329,
+    "formId": "cofagrigus",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 330,
+    "formId": "honedge",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 331,
+    "formId": "doublade",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 332,
+    "formId": "aegislash-shield",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 333,
+    "formId": "ponyta-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 334,
+    "formId": "rapidash-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 335,
+    "formId": "sinistea",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 336,
+    "formId": "polteageist",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 337,
+    "formId": "indeedee-male",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 338,
+    "formId": "phantump",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 339,
+    "formId": "trevenant",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 340,
+    "formId": "morelull",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 341,
+    "formId": "shiinotic",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 342,
+    "formId": "oranguru",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 343,
+    "formId": "passimian",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 344,
+    "formId": "morpeko-full-belly",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 345,
+    "formId": "falinks",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 346,
+    "formId": "drampa",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 347,
+    "formId": "turtonator",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 348,
+    "formId": "togedemaru",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 349,
+    "formId": "snom",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 350,
+    "formId": "frosmoth",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 351,
+    "formId": "clobbopus",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 352,
+    "formId": "grapploct",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 353,
+    "formId": "pincurchin",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 354,
+    "formId": "mantyke",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 355,
+    "formId": "mantine",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 356,
+    "formId": "wailmer",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 357,
+    "formId": "wailord",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 358,
+    "formId": "bergmite",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 359,
+    "formId": "avalugg",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 360,
+    "formId": "dhelmise",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 361,
+    "formId": "lapras",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 362,
+    "formId": "lunatone",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 363,
+    "formId": "solrock",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 364,
+    "formId": "mime-jr",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 365,
+    "formId": "mr-mime-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 366,
+    "formId": "mr-rime",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 367,
+    "formId": "darumaka-galar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 368,
+    "formId": "darmanitan-galar-standard",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 369,
+    "formId": "stonjourner",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 370,
+    "formId": "eiscue-ice",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 371,
+    "formId": "duraludon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 372,
+    "formId": "rotom",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 373,
+    "formId": "ditto",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 374,
+    "formId": "dracozolt",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 375,
+    "formId": "arctozolt",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 376,
+    "formId": "dracovish",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 377,
+    "formId": "arctovish",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 378,
+    "formId": "charmander",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 379,
+    "formId": "charmeleon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 380,
+    "formId": "charizard",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 381,
+    "formId": "type-null",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 382,
+    "formId": "silvally",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 383,
+    "formId": "larvitar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 384,
+    "formId": "pupitar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 385,
+    "formId": "tyranitar",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 386,
+    "formId": "deino",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 387,
+    "formId": "zweilous",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 388,
+    "formId": "hydreigon",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 389,
+    "formId": "goomy",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 390,
+    "formId": "sliggoo",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 391,
+    "formId": "goodra",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 392,
+    "formId": "jangmo-o",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 393,
+    "formId": "hakamo-o",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 394,
+    "formId": "kommo-o",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 395,
+    "formId": "dreepy",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 396,
+    "formId": "drakloak",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 397,
+    "formId": "dragapult",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 398,
+    "formId": "zacian",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 399,
+    "formId": "zamazenta",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 400,
+    "formId": "eternatus",
+    "source": "base"
+  },
+  {
+    "regionalDexNumber": 1,
+    "formId": "slowpoke-galar",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 2,
+    "formId": "slowbro-galar",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 3,
+    "formId": "slowking-galar",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 4,
+    "formId": "buneary",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 5,
+    "formId": "lopunny",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 6,
+    "formId": "happiny",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 7,
+    "formId": "chansey",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 8,
+    "formId": "blissey",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 11,
+    "formId": "igglybuff",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 12,
+    "formId": "jigglypuff",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 13,
+    "formId": "wigglytuff",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 17,
+    "formId": "fomantis",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 18,
+    "formId": "lurantis",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 22,
+    "formId": "fletchling",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 23,
+    "formId": "fletchinder",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 24,
+    "formId": "talonflame",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 25,
+    "formId": "shinx",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 26,
+    "formId": "luxio",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 27,
+    "formId": "luxray",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 28,
+    "formId": "klefki",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 31,
+    "formId": "abra",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 32,
+    "formId": "kadabra",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 33,
+    "formId": "alakazam",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 40,
+    "formId": "tentacool",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 41,
+    "formId": "tentacruel",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 52,
+    "formId": "dunsparce",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 53,
+    "formId": "bouffalant",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 54,
+    "formId": "lickitung",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 55,
+    "formId": "lickilicky",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 63,
+    "formId": "druddigon",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 68,
+    "formId": "bulbasaur",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 69,
+    "formId": "ivysaur",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 70,
+    "formId": "venusaur",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 71,
+    "formId": "squirtle",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 72,
+    "formId": "wartortle",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 73,
+    "formId": "blastoise",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 74,
+    "formId": "venipede",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 75,
+    "formId": "whirlipede",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 76,
+    "formId": "scolipede",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 77,
+    "formId": "foongus",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 78,
+    "formId": "amoonguss",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 79,
+    "formId": "comfey",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 80,
+    "formId": "tangela",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 81,
+    "formId": "tangrowth",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 87,
+    "formId": "zorua",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 88,
+    "formId": "zoroark",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 98,
+    "formId": "staryu",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 99,
+    "formId": "starmie",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 100,
+    "formId": "kubfu",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 101,
+    "formId": "urshifu-single-strike",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 102,
+    "formId": "emolga",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 103,
+    "formId": "dedenne",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 105,
+    "formId": "magnemite",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 106,
+    "formId": "magneton",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 107,
+    "formId": "magnezone",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 111,
+    "formId": "carvanha",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 112,
+    "formId": "sharpedo",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 113,
+    "formId": "lillipup",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 114,
+    "formId": "herdier",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 115,
+    "formId": "stoutland",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 116,
+    "formId": "tauros",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 117,
+    "formId": "miltank",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 118,
+    "formId": "scyther",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 119,
+    "formId": "scizor",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 120,
+    "formId": "pinsir",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 121,
+    "formId": "heracross",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 133,
+    "formId": "sandygast",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 134,
+    "formId": "palossand",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 139,
+    "formId": "azurill",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 140,
+    "formId": "marill",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 141,
+    "formId": "azumarill",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 142,
+    "formId": "poliwag",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 143,
+    "formId": "poliwhirl",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 144,
+    "formId": "poliwrath",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 145,
+    "formId": "politoed",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 146,
+    "formId": "psyduck",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 147,
+    "formId": "golduck",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 148,
+    "formId": "whismur",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 149,
+    "formId": "loudred",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 150,
+    "formId": "exploud",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 153,
+    "formId": "skarmory",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 157,
+    "formId": "rockruff",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 158,
+    "formId": "lycanroc-midday",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 163,
+    "formId": "mienfoo",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 164,
+    "formId": "mienshao",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 168,
+    "formId": "sandshrew",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 169,
+    "formId": "sandslash",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 170,
+    "formId": "cubone",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 171,
+    "formId": "marowak",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 172,
+    "formId": "kangaskhan",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 176,
+    "formId": "sandile",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 177,
+    "formId": "krokorok",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 178,
+    "formId": "krookodile",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 186,
+    "formId": "larvesta",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 187,
+    "formId": "volcarona",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 194,
+    "formId": "skrelp",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 195,
+    "formId": "dragalge",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 196,
+    "formId": "clauncher",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 197,
+    "formId": "clawitzer",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 198,
+    "formId": "horsea",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 199,
+    "formId": "seadra",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 200,
+    "formId": "kingdra",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 201,
+    "formId": "petilil",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 202,
+    "formId": "lilligant",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 205,
+    "formId": "exeggcute",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 206,
+    "formId": "exeggutor",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 208,
+    "formId": "porygon",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 209,
+    "formId": "porygon2",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 210,
+    "formId": "porygon-z",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 211,
+    "formId": "zarude",
+    "source": "isle-of-armor"
+  },
+  {
+    "regionalDexNumber": 13,
+    "formId": "smoochum",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 14,
+    "formId": "jynx",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 15,
+    "formId": "elekid",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 16,
+    "formId": "electabuzz",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 17,
+    "formId": "electivire",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 18,
+    "formId": "magby",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 19,
+    "formId": "magmar",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 20,
+    "formId": "magmortar",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 21,
+    "formId": "audino",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 30,
+    "formId": "cryogonal",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 35,
+    "formId": "swablu",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 36,
+    "formId": "altaria",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 47,
+    "formId": "spiritomb",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 65,
+    "formId": "nidoran-f",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 66,
+    "formId": "nidorina",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 67,
+    "formId": "nidoqueen",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 68,
+    "formId": "nidoran-m",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 69,
+    "formId": "nidorino",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 70,
+    "formId": "nidoking",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 83,
+    "formId": "tyrunt",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 84,
+    "formId": "tyrantrum",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 85,
+    "formId": "amaura",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 86,
+    "formId": "aurorus",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 107,
+    "formId": "absol",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 113,
+    "formId": "bagon",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 114,
+    "formId": "shelgon",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 115,
+    "formId": "salamence",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 116,
+    "formId": "gible",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 117,
+    "formId": "gabite",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 118,
+    "formId": "garchomp",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 123,
+    "formId": "omanyte",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 124,
+    "formId": "omastar",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 125,
+    "formId": "kabuto",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 126,
+    "formId": "kabutops",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 127,
+    "formId": "aerodactyl",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 128,
+    "formId": "carbink",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 129,
+    "formId": "beldum",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 130,
+    "formId": "metang",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 131,
+    "formId": "metagross",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 144,
+    "formId": "zubat",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 145,
+    "formId": "golbat",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 146,
+    "formId": "crobat",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 147,
+    "formId": "tirtouga",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 148,
+    "formId": "carracosta",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 149,
+    "formId": "archen",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 150,
+    "formId": "archeops",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 159,
+    "formId": "spheal",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 160,
+    "formId": "sealeo",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 161,
+    "formId": "walrein",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 183,
+    "formId": "lileep",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 184,
+    "formId": "cradily",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 185,
+    "formId": "anorith",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 186,
+    "formId": "armaldo",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 187,
+    "formId": "relicanth",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 191,
+    "formId": "aron",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 192,
+    "formId": "lairon",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 193,
+    "formId": "aggron",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 194,
+    "formId": "dratini",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 195,
+    "formId": "dragonair",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 196,
+    "formId": "dragonite",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 197,
+    "formId": "regirock",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 198,
+    "formId": "regice",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 199,
+    "formId": "registeel",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 200,
+    "formId": "regieleki",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 201,
+    "formId": "regidrago",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 202,
+    "formId": "articuno-galar",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 203,
+    "formId": "zapdos-galar",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 204,
+    "formId": "moltres-galar",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 205,
+    "formId": "cobalion",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 206,
+    "formId": "terrakion",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 207,
+    "formId": "virizion",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 208,
+    "formId": "glastrier",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 209,
+    "formId": "spectrier",
+    "source": "crown-tundra"
+  },
+  {
+    "regionalDexNumber": 210,
+    "formId": "calyrex",
+    "source": "crown-tundra"
+  }
+]
